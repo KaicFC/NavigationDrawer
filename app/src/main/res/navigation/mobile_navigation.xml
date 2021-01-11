@@ -40,4 +40,10 @@
         android:name="com.cursoandroid.navigationdrawer.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_contato"
+        android:name="com.cursoandroid.navigationdrawer.ui.contato.ContatoFragment"
+        android:label="@string/menu_contato"
+        tools:layout="@layout/fragment_contato" />
 </navigation>
